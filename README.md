@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aditya.rns09@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEabxLnJlU/m4Mjx7TWaBPPllTQfnerKQ/view?utm_content=DAEabxLnJlU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton](https://www.canva.com/design/DAEabxLnJlU/m4Mjx7TWaBPPllTQfnerKQ/view?utm_content=DAEabxLnJlU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1PSaVgHbEtDdZZjz2jkY5jOHQfH6H44N6?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
