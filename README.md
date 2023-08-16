@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi2109&label=Profile%20views&color=0e75b6&style=flat" alt="adi2109" /> </p>
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-- 🌱 I’m currently learning **C++, Data Structure and Algorithm, Web Development**
+- 🌱 🌱 I’m currently learning DSA and Web-Development
 
 - 📫 How to reach me **aditya.rns09@gmail.com**
 
