@@ -30,7 +30,7 @@
 &nbsp;
 	<h3>⚙️ GitHub Analytics</h3>
 <p>
-  <a href="https://github.com/NeerajChatterjee/" target="_blank">
+  <a href="https://github.com/adi2109/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=adi2109&show_icons=true&theme=dracula&count_private=true&card_width=300" />
   </a><a href="https://github.com/adi2109" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi2109&theme=cobalt&langs_count=8&layout=compact&card_width=400" />
